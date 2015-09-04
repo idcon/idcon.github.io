@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[#idcon]]></title>
+  <link href="http://idcon.herokuapp.com/atom.xml" rel="self"/>
+  <link href="http://idcon.herokuapp.com/"/>
+  <updated>2015-08-22T13:26:03+09:00</updated>
+  <id>http://idcon.herokuapp.com/</id>
+  <author>
+    <name><![CDATA[idcon.org]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World!]]></title>
+    <link href="http://idcon.herokuapp.com/blog/2013/03/31/hello-world/"/>
+    <updated>2013-03-31T15:25:00+09:00</updated>
+    <id>http://idcon.herokuapp.com/blog/2013/03/31/hello-world</id>
+    <content type="html"><![CDATA[<p>testing</p>
+]]></content>
+  </entry>
+  
+</feed>
